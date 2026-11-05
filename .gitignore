@@ -1,3 +1,5 @@
 .amlignore
 *.amltmp
 .ipynb_aml_checkpoints/
+
+.DS_Store
